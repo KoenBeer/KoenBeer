@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 - 🔭 I’m currently studying at Utrecht University
-- 📫 I have worked in: C#, Python, Haskell, SQL, HTML, CSS, Skript (Minecraft Plugin :p)
+- 📫 I am familiar with: C#, Python, Haskell, SQL, HTML, CSS, Skript
 - 😄 Pronouns: He/Him
